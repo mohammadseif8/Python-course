@@ -62,4 +62,4 @@ This repository contains **code examples**, **exercises**, and **projects** to h
 ## ⚡ **Getting Started**
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/python-course.git
+   git clone https://github.com/mohammadseif8/python-course.git
