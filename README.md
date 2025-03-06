@@ -22,7 +22,8 @@ What makes this repo special? Here’s the rundown:
 
 ## 🧩 Course Content
 
-The heart of this repo lies in the **"01-basic"** section—a goldmine of Python fundamentals! Here’s what’s waiting for you:  
+The heart of this repo lies in its structured sections, starting with the **"01-basic"** folder—a goldmine of Python fundamentals! Here’s what’s waiting for you in **"01-basic"**:
+
 - **Data Types**: Numbers, strings, booleans—the essentials!  
 - **Operators**: Math, comparisons, and logic made simple.  
 - **Conditional Statements**: Decision-making with `if`, `elif`, and `else`.  
@@ -40,7 +41,17 @@ The heart of this repo lies in the **"01-basic"** section—a goldmine of Python
 - **Regular Expressions**: Text wrangling with regex power.  
 - **Sorting Algorithms**: Bubble sort, selection sort, and more!  
 
-Every topic comes with **beginner-friendly examples** to turn theory into action.
+Then, level up with the **"02-Python Object Oriented Programming"** folder, where you’ll unlock the power of OOP:  
+- **Classes & Objects**: Build blueprints and instances for reusable code.  
+- **Inheritance**: Reuse and extend code with parent-child relationships.  
+- **Encapsulation**: Keep data safe and tidy with access control.  
+- **Polymorphism**: Flexibility to use methods in multiple forms.  
+- **Dunder Methods (Magic Methods)**: Customize behavior with `__init__`, `__str__`, and more.  
+- **Operator Overloading**: Redefine operators like `+` or `*` for your objects.  
+- **Static & Class Methods**: Use `@staticmethod` and `@classmethod` for utility and class-level logic.  
+- **Abstract Classes**: Define blueprints with the `abc` module for must-implement methods.  
+
+Every topic across both folders comes with **beginner-friendly examples** to turn theory into action, making even the trickiest concepts a breeze to grasp!
 
 ---
 
