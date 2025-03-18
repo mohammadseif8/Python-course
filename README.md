@@ -70,7 +70,7 @@ No fancy setup needed! To dive in, you’ll just need:
 Ready to roll? Here’s how to kick things off:  
 1. **Clone the Repo**: 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/mohammadseif8/python-course.git.  
+   git clone https://github.com/mohammadseif8/python-course.git
 2. **Explore "01-basic"**: Start with the basics folder—it’s your launchpad!  
 3. **Run the Code**: Open the files, tweak them, and see what happens.  
 4. **Ask Away**: Got questions? Drop me a line—I’m here to help!  
@@ -92,5 +92,5 @@ Got a question or idea? I’d **love** to hear from you—drop a comment or sugg
 Happy coding, friends! 🚀
 
 ---
-*Last Updated: March 2025*  
-*Built with ❤️ by [Mohammad]*
+Last Updated: March 2025
+Built with ❤️ by Mohammad
